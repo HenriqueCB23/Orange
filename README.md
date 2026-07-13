@@ -1,8 +1,11 @@
 # Orange
 
-Pre-requisites
+Pre-requisites:
+
 Python
 
 In CMD:
-pip install InquirerPy
+
+pip install InquirerPy 
+
 pip install colorama
